@@ -1,8 +1,8 @@
 # Fibonacci
-Calculate numbers in the Fiboancci series, win 10 installer.
-These numbers get very big. For 1M values you'll need several books to write them.
+Calculate numbers in the Fiboancci series, win 10 installer, Labview 2023.
+These numbers can get very big. For the first 1M values you'll need many, many books to write all them.
 
-Some benchmark :
+Some benchmarks :
 I list here the time required and the number of digits of the Nth number in the series (calculated with a regular 2023 PC) and this program:
 
       10k    5 msec    2090
