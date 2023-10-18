@@ -13,7 +13,7 @@ I list here the time required and the number of digits of the Nth number in the 
       50k    60 msec   10450
       100k   200 msec  20899
       500k   5 sec     104494
-      10^6   20 sec    208988
-      5*10^6 550       1044939
-      10^7   3400 sec  2089877
-      5^8    19 hours  10449382
+      1M     20 sec    208988
+      5M     550       1044939
+      10M    3400 sec  2089877
+      50M    19 hours  10449382
