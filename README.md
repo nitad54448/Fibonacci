@@ -16,3 +16,4 @@ I list here the time required and the number of digits of the Nth number in the 
       10^6   20 sec    208988
       5*10^6 550       1044939
       10^7   3400 sec  2089877
+      5^8    19 hours  10449382
