@@ -56,4 +56,4 @@ For large values of $n$, the term $\psi^n$ becomes very small and approaches zer
 $$F_n \approx \frac{\phi^n}{\sqrt{5}}$$
 
 This approximation is extremely accurate, and rounding the result to the nearest integer will give the exact Fibonacci number for any positive integer $n$.
-It works well for the numbers I calculated, after 10 000. 
+It works well for the numbers I calculated, even for the smallest one listed here 100th number has 21 characters. 
